@@ -1,7 +1,7 @@
 ### Hey there, I'm [Ayush Kumar][website] 👋
 
 [![Website](https://img.shields.io/website?label=ayushkumar459.me&style=for-the-badge&url=http%3A%2F%2Fayushkumar459.me)](http://ayushkumar459.me)
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=ayushkr459)
 
 ---
 
