@@ -11,13 +11,6 @@
 - 💙  Interested in Full Stack Development and playing around with data.
 
 
-### Connect with me:
-
-[<img align="left" alt="ayushkumar459.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ayush_kr459 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ayushkr459 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ayushkr459 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -41,6 +34,15 @@
 
 | <img src="https://github-readme-stats.vercel.app/api?username=ayushkr459&show_icons=true&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr459"/> |
 |:------------:|:------------:|
+
+### Contact Me
+<p>
+  <a target="_blank"href="https://www.linkedin.com/in/ayushkr459/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/ayush_kr459"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ayushkr459@gmail.com?subject=Hello%20Ayush,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ayush.kr459/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 
 [website]: http://ayushkumar459.me
 [twitter]: https://twitter.com/ayush_kr459
