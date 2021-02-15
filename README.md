@@ -9,8 +9,6 @@
 - 💙  A developer by mind and an entrepreneur by heart who is passionate about solving the real world problems and eager to work on technology/role that challenge my skills.
 - 💙  I love to update myself with new cutting edge technologies and is fascinated by how space agencies work
 - 💙  Interested in Full Stack Development and playing around with data.
-
-
 <br />
 
 ### Languages and Tools:
@@ -26,8 +24,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
 <br />
 
 ### Stats
