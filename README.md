@@ -6,7 +6,7 @@
 ---
 
 - 💙  Open for the roles of Front-end Developer & PHP Developer
-- 💙   A developer by mind and an entrepreneur by heart who is passionate about solving the real world problems and eager to work on technology/role that challenge my skills.
+- 💙  A developer by mind and an entrepreneur by heart who is passionate about solving the real world problems and eager to work on technology/role that challenge my skills.
 - 💙  I love to update myself with new cutting edge technologies and is fascinated by how space agencies work
 - 💙  Interested in Full Stack Development and playing around with data.
 
@@ -37,8 +37,10 @@
 
 <br />
 
----
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ayushkr459)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
+
+| <img src="https://github-readme-stats.vercel.app/api?username=ayushkr459&show_icons=true&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr459"/> |
+|:------------:|:------------:|
 
 [website]: http://ayushkumar459.me
 [twitter]: https://twitter.com/ayush_kr459
