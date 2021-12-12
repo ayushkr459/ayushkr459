@@ -5,10 +5,10 @@
 
 ---
 
-- 💙  Open for the roles of Front-end Developer & PHP Developer
+- 💙  Product Manager @Pare
 - 💙  A developer by mind and an entrepreneur by heart who is passionate about solving the real world problems and eager to work on technology/role that challenge my skills.
 - 💙  I love to update myself with new cutting edge technologies and is fascinated by how space agencies work
-- 💙  Interested in Full Stack Development and playing around with data.
+- 💙  Interested in Product Management, Data Analytics, Growth & Full Stack Development 
 <br />
 
 ### Languages and Tools
